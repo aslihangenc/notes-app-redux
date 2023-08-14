@@ -1,1 +1,8 @@
-# notes-app-redux
+## Notes App
+
+
+
+![GIF](./images/gif.gif)
+
+---
+
